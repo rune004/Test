@@ -7,3 +7,4 @@ root: ./
 
 redirects:  
     previous/page: new-folder/page.md
+    next/page: new-folder2/page.md
